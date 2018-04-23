@@ -59,6 +59,6 @@ typings/
 
 .cache/
 yarn-error.log
-public/
+
 
 \.vscode/
