@@ -25,8 +25,8 @@
       "component---src-pages-my-files-js-1d0343fc3076a062dc79.js.map"
     ],
     "path---my-files": [
-      "path---my-files-0406274201ae33ac7a50.js",
-      "path---my-files-0406274201ae33ac7a50.js.map"
+      "path---my-files-f34027584ca73f2d415b.js",
+      "path---my-files-f34027584ca73f2d415b.js.map"
     ],
     "commons": [
       "commons-c759395d8a4899faf200.js",
@@ -49,8 +49,12 @@
       "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
     ],
     "app": [
-      "app-ea8a5d0faf6a924d10c3.js",
-      "app-ea8a5d0faf6a924d10c3.js.map"
+      "app-ff41010814a18fd2fee1.js",
+      "app-ff41010814a18fd2fee1.js.map"
+    ],
+    "path---post-of-the-day": [
+      "path---post-of-the-day-36008316f7bec0569221.js",
+      "path---post-of-the-day-36008316f7bec0569221.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-c6203775cd9db29453c2.js",
