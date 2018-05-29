@@ -1,0 +1,2 @@
+webpackJsonp([0x93f8b10ddf38],{523:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"C:/Users/steve/Documents/GitKraken/First-Gatsby-blog/src/pages/lorum-ipsum.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Lorum Ipsum",date:"29 May, 2018"},fields:{slug:"/lorum-ipsum/"},excerpt:'500 words of Lorum Ipsum Note: Today is also the première of "Koning Lier" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras…'}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---my-files-86cd474c9a94227a55c3.js.map
