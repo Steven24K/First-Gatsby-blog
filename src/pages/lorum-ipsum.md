@@ -1,5 +1,5 @@
 ---
-title: Lorum Ipsum
+title: Lorum Ipsum 500 words
 date: "2018-05-29"
 ---
 
