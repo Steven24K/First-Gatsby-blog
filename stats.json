@@ -8,6 +8,10 @@
       "path----dd67e0deeae468a07319.js",
       "path----dd67e0deeae468a07319.js.map"
     ],
+    "path---advanced-usability": [
+      "path---advanced-usability-f38903e44f861ee67dc3.js",
+      "path---advanced-usability-f38903e44f861ee67dc3.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
@@ -29,8 +33,8 @@
       "component---src-pages-my-files-js-44ca4b2e9f247a560503.js.map"
     ],
     "path---my-files": [
-      "path---my-files-908af020c2225792911d.js",
-      "path---my-files-908af020c2225792911d.js.map"
+      "path---my-files-f2f30b7d617942f3b13b.js",
+      "path---my-files-f2f30b7d617942f3b13b.js.map"
     ],
     "commons": [
       "commons-5405d74785e898500c07.js",
@@ -45,8 +49,8 @@
       "path---suply-chain-5c7e160ca2a504055449.js.map"
     ],
     "app": [
-      "app-48e56af2b7e2f459c4e2.js",
-      "app-48e56af2b7e2f459c4e2.js.map"
+      "app-616ae30cd52be8b04989.js",
+      "app-616ae30cd52be8b04989.js.map"
     ],
     "path---lorum-ipsum": [
       "path---lorum-ipsum-08b85afea4da4b33cf89.js",
